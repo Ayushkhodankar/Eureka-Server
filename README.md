@@ -4,6 +4,8 @@
 - Every Micro service will register into the Eureka server and Eureka server knows all the client applications running on each port and IP address.
 - Eureka Server is also known as Discovery Server.
 
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcMZBv7AZQvpLEMR7kO9p7QAR6gN7EsYQnkDJz6rG0m2sgCnflPr4rZoXwW8HZv2Y7KU9mMa_JHVen62eYiG81hNZYm1saPpfuBJGjlD-XMS0sMkpn9nHQYbFSaBoXwnPzxA0ac8j-L0irv85FEuu7KG2jFzzWMtl6FRnY0bv1XTVYTugS_SK9lDGD/s1920/Spring%20Boot%20Microservices.012.jpeg" alt="image"></img>
+
 # In The Repository
 
 This sample Eureka-server based repository consists of the following modules:
